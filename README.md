@@ -2,7 +2,11 @@
 
 ## Preface
 
-This repo contains the source code and prediction maps of our ***CCLDNet*** and ***CCLDNet\****.  (PDF coming soon)
+This repo contains the source code and prediction maps of our ***CCLDNet*** and ***CCLDNet\****. 
+
+## Update
+
+:fire: **Update 2022/09/08** :fire: Our paper is now accepted by Computerized Medical Imaging and Graphics (CMIG). ([PDF](https://doi.org/10.1016/j.compmedimag.2022.102110))
 
 ## Dataset
 
